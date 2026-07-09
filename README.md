@@ -1,8 +1,8 @@
 # conedbudgetmodel
-A dynamic budget model for a university continuing education program, built for a real 22-week program cycle. Includes a 4-variable sensitivity analysis, ROI/break-even modeling across enrollment scenarios, and a staffing right-sizing scenario that cuts the projected deficit by over 75%. Anonymized from a project I led professionally.
 Continuing Education Program — Budget Model & Sensitivity Analysis
 
-A dynamic budget model for a university continuing education program, built for a real 22-week program cycle. Includes a 4-variable sensitivity analysis, ROI/break-even modeling across enrollment scenarios, and a staffing right-sizing scenario that cuts the projected deficit by over 75%.
+A dynamic budget model for a university continuing education program, built for a real 22-week program cycle. Includes a 4-variable sensitivity analysis, ROI/break-even modeling across enrollment scenarios, and a staffing right-sizing scenario that cuts the projected deficit by over 75%. 
+Anonymized from a project I led professionally.
 
 Anonymized from a project I led professionally — institution name, staff names, and exact figures have been generalized for a public portfolio; the structure, logic, and analytical approach are unchanged from the live version used for planning.
 
